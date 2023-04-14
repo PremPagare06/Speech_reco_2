@@ -526,7 +526,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 171862055742335777, guid: 526c157bfa0eee74e8ba738651b3994d, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 171862056317093178, guid: 526c157bfa0eee74e8ba738651b3994d, type: 3}
       propertyPath: m_PresetInfoIsWorld
